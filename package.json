@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/watchdogpolska/renovate-npm-bug#readme",
   "dependencies": {
-    "small_eod_client": "git+https://github.com/watchdogpolska/small-eod-sdk-javascript.git#9e3dc075e1de0cf1292dda3fe92ffe6c709e0ca3"
+    "small_eod_client": "git+https://github.com/watchdogpolska/small-eod-sdk-javascript.git#c52728e8e9860840afa202d41cc0f1894b543da7"
   }
 }
